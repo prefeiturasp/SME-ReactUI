@@ -1,0 +1,6 @@
+[submodule "SME-ReactUI-Components"]
+	path = SME-ReactUI-Components
+	url = https://github.com/prefeiturasp/SME-ReactUI-Components
+[submodule "SME-ReactUI-StoryBook"]
+	path = SME-ReactUI-StoryBook
+	url = https://github.com/prefeiturasp/SME-ReactUI-StoryBook
